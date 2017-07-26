@@ -1,0 +1,6 @@
+c:\users\madhu's macbook\documents\visual studio 2013\Projects\stephanos_School\stephanos_School\bin\stephanos_School.dll.config
+c:\users\madhu's macbook\documents\visual studio 2013\Projects\stephanos_School\stephanos_School\bin\stephanos_School.dll
+c:\users\madhu's macbook\documents\visual studio 2013\Projects\stephanos_School\stephanos_School\bin\stephanos_School.pdb
+c:\users\madhu's macbook\documents\visual studio 2013\Projects\stephanos_School\stephanos_School\obj\Debug\stephanos_School.csprojResolveAssemblyReference.cache
+c:\users\madhu's macbook\documents\visual studio 2013\Projects\stephanos_School\stephanos_School\obj\Debug\stephanos_School.dll
+c:\users\madhu's macbook\documents\visual studio 2013\Projects\stephanos_School\stephanos_School\obj\Debug\stephanos_School.pdb
